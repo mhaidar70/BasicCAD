@@ -1,41 +1,33 @@
 # BasicCAD
 
-We are creating a caster.
+We are creating stuff!
 
 ---
 ## Table of Contents
-* [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* Table of Contents
+*  Ring
+* Mount
+* Fork
+* Tire
+* Wheel
+* AxleCollarBearings
 
-## Base
+## Ring and Spinner
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+We were supposed to diivde up the work and create a part called Ring and Spinner. I was Partner A so I created the Ring and my Parnter created the Spinner. 
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[Ring and Spinner](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/898048881bf505a396159ae9)
 
 ### Image
+![Screenshot 2022-10-24 110905](https://user-images.githubusercontent.com/112962044/197561048-2446abdf-882b-4f12-a847-0b53e460a7f1.png)
 
-<img src="images/Base.jpg" alt="The Base" width="200">
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
-
+This was my first Onshape assignment of the year and it was pretty easy thing to create. I learned a new tool called "Chamfer" and it is similar to the fillet. This assignment was overall easy because it told us everything that we needed to do. It had all the instructions on it, but I know that when I have to create a part myself it might be a little challenging. 
 ---
 
 
