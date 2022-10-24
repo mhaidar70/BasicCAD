@@ -44,16 +44,21 @@ Next part to this series was the Key and Prop. I created the Key since I was Stu
 I relearned a toll that I knew a while ago, but I had forgotten it since I didn't use it for a while. It was called the linear pattern which repeats a part as many times as you need it. I had to make the teeth on the key so I used the linear pattern to repeat this teeth many times fast instead of manually creating each single teeth. 
 
 
-## Fork
+## Pull Copter Assembly
 
 ### Description
-
+ For the Final part we just assembled the parts we created and it turned out great. 
 ### Evidence
+https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/c17c2a21e748b4aecc6d31cf
 
-### Image
+### Video
+
+https://user-images.githubusercontent.com/112962044/197566018-b34cac51-b346-4268-8d60-ef9cfbf8581d.mp4
+
 
 ### Reflection
 
+This was an easy build and we got it done earlier than it was due. I didn't have any problems with it, but I would give one advice which to communicate. You have to communicate with your partner so you can understand each other and know what you're doing and what needs to be done. This was what helped us to finish this early and perfectly. 
 ---
 
 
