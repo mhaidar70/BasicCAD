@@ -7,8 +7,8 @@ We are creating stuff!
 * Table of Contents
 * Ring and Spinner
 * Key and Prop
-* Fork
-* Tire
+* Pull Copter Asembly
+* Branch and Merge
 * Wheel
 * AxleCollarBearings
 
@@ -62,7 +62,7 @@ This was an easy build and we got it done earlier than it was due. I didn't have
 ---
 
 
-## Branch and erge
+## Branch and Merge
 
 ### Description
 
