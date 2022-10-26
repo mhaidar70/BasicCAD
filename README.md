@@ -87,30 +87,21 @@ I learned a new way of making my Onshape skills better. The branch is a place th
 ---
 
 
-## Wheel
+## Multi Part Studio
 
 ### Description
+ We made a part on Onshape using the drawings that were given to us. 
 
-### Evidence
+### Image 
 
-### Image
+![Screenshot 2022-10-26 135648](https://user-images.githubusercontent.com/112962044/198101071-90b9a336-264f-4104-9bdf-b8e6ee4137a6.png)
+
 
 ### Reflection
 
+I would like to say that this was very very confusing. I had no idea where to start because there were different parts that had confusing dimensions.I got help from Mr. H, and he told me to start with the caps since they were almost identical. I just thought hm I need to start from easy then we can make progress then go to the hard parts. So just start from easy parts then move on to harder and harder parts. A good tip is also just get someone that knows what they are doing to check to see if you're on the right path. If you weren't then you kept going and eventually you're going to get one part wrong then that will cause you to restart the whole thing. 
 ---
 
-
-## AxleCollarBearings
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
 
 
 
