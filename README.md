@@ -27,10 +27,8 @@ This is the link to my Onshape Document.
 
 This is the image of the Ring that I created in Onshape.
 
-### Reflection
-
-This was my first Onshape assignment of the year and it was pretty easy thing to create. I learned a new tool called "Chamfer" and it is similar to the fillet. This assignment was overall easy because it told us everything that we needed to do. It had all the instructions on it, but I know that when I have to create a part myself it might be a little challenging. 
----
+## Reflection
+This was my first Onshape assignment of the year and it was pretty easy thing to create. I learned a new tool called "Chamfer" and it is similar to the fillet. This assignment was overall easy because it told us everything that we needed to do. It had all the instructions on it, but I know that when I have to create a part myself it might be a little challenging.
 
 
 ## Key and Prop
@@ -46,7 +44,7 @@ Link of the Onshape document.
  
  Image of the key I created in Onshape.
 ### Reflection
-I relearned a toll that I knew a while ago, but I had forgotten it since I didn't use it for a while. It was called the linear pattern which repeats a part as many times as you need it. I had to make the teeth on the key so I used the linear pattern to repeat this teeth many times fast instead of manually creating each single teeth. 
+I relearned a lot I knew a while ago, but I had forgotten it since I didn't use it for a while. It was called the linear pattern which repeats a part as many times as you need it. I had to make the teeth on the key so I used the linear pattern to repeat this teeth many times fast instead of manually creating each single teeth. 
 
 
 ## Pull Copter Assembly
@@ -54,9 +52,8 @@ I relearned a toll that I knew a while ago, but I had forgotten it since I didn'
 ### Description
  For the Final part we just assembled the parts we created and it turned out great. 
 ### Evidence
-https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/c17c2a21e748b4aecc6d31cf
+[Here is the link to my Onshape Document](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/c17c2a21e748b4aecc6d31cf)
 
-Link tp the assembly
 ### Video
 
 https://user-images.githubusercontent.com/112962044/197566018-b34cac51-b346-4268-8d60-ef9cfbf8581d.mp4
@@ -64,27 +61,24 @@ https://user-images.githubusercontent.com/112962044/197566018-b34cac51-b346-4268
 Video of the Assembly
 ### Reflection
 
-This was an easy build and we got it done earlier than it was due. I didn't have any problems with it, but I would give one advice which to communicate. You have to communicate with your partner so you can understand each other and know what you're doing and what needs to be done. This was what helped us to finish this early and perfectly. 
----
+This was an easy build and we got it done earlier than it was due. I didn't have any problems with it, but I would give one advice which to communicate. You have to communicate with your partner so you can understand each other and know what you're doing and what needs to be done. This was what helped us to finish this early and perfectly.
 
 
 ## Branch and Merge
 
 ### Description
 
-We made a new branch and tranformed our parts to look different than the normal one. 
+We made a new branch and transformed our parts to look different than the normal one. 
 
 ### Evidence
-[Onshape Document](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/7f185f7fa3bee0fa40ee25e7/e/c17c2a21e748b4aecc6d31cf)
+[Here is our Onshape Document where the changes were made](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/7f185f7fa3bee0fa40ee25e7/e/c17c2a21e748b4aecc6d31cf)
 
-Onshape link of the changes
 ### Image
 ![Screenshot 2022-10-24 115657](https://user-images.githubusercontent.com/112962044/197571579-cfe02e16-0d17-4a41-a02b-941ebc1dc1c0.png)
 
 The image shows the key changed from a circular handle to a square.
 ### Reflection
-I learned a new way of making my Onshape skills better. The branch is a place that you can create or upgrade an existing part without affecting the origninal one. That is a really helpful tool to use and if anyone wants to make their design better without affecting the one they have now then I suggest branchng it. It is a ton of help and very very useful.  
----
+I learned a new way of making my Onshape skills better. The branch is a place that you can create or upgrade an existing part without affecting the origninal one. That is a really helpful tool to use and if anyone wants to make their design better without affecting the one they have now then I suggest branchng it. It is a ton of help and very very useful.
 
 
 ## Axle Collar Bearing
@@ -99,8 +93,7 @@ I learned a new way of making my Onshape skills better. The branch is a place th
 
 ### Reflection
 
-I would like to say that this was very very confusing. I had no idea where to start because there were different parts that had confusing dimensions.I got help from Mr. H, and he told me to start with the caps since they were almost identical. I just thought hm I need to start from easy then we can make progress then go to the hard parts. So just start from easy parts then move on to harder and harder parts. A good tip is also just get someone that knows what they are doing to check to see if you're on the right path. If you weren't then you kept going and eventually you're going to get one part wrong then that will cause you to restart the whole thing. 
----
+I would like to say that this was very very confusing. I had no idea where to start because there were different parts that had confusing dimensions.I got help from Mr. H, and he told me to start with the caps since they were almost identical. I just thought hm I need to start from easy then we can make progress then go to the hard parts. So just start from easy parts then move on to harder and harder parts. A good tip is also just get someone that knows what they are doing to check to see if you're on the right path. If you weren't then you kept going and eventually you're going to get one part wrong then that will cause you to restart the whole thing.
 
 
 
