@@ -19,9 +19,8 @@ We are creating stuff!
 We were supposed to divde up the work and create a part called Ring and Spinner. I was Partner A so I created the Ring and my Partner created the Spinner. 
 
 ### Evidence
-[Ring and Spinner](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/898048881bf505a396159ae9)
+[Link to the Ring and Spinner](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/898048881bf505a396159ae9)
 
-This is the link to my Onshape Document.
 ### Image
 ![Screenshot 2022-10-24 110905](https://user-images.githubusercontent.com/112962044/197561048-2446abdf-882b-4f12-a847-0b53e460a7f1.png)
 
@@ -37,13 +36,13 @@ This was my first Onshape assignment of the year and it was pretty easy thing to
 Next part to this series was the Key and Prop. I created the Key since I was Student A, and my partner created the Prop. What we created was a key that would make a copter turn when it was inserted into the key hole. 
 
 ### Evidence
- [Key and Prop](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/898048881bf505a396159ae9)
+ [Link to the Key and Prop](https://cvilleschools.onshape.com/documents/1cde1131899ecaf84965423d/w/6425888fe3c5e10bfb4a3ea0/e/898048881bf505a396159ae9)
 
-Link of the Onshape document.
 ### Image
 ![Screenshot 2022-10-24 112323](https://user-images.githubusercontent.com/112962044/197563949-70c86d11-c88c-40ae-a3f3-633ce2bc135b.png)
  
  Image of the key I created in Onshape.
+
 ### Reflection
 I relearned a lot I knew a while ago, but I had forgotten it since I didn't use it for a while. It was called the linear pattern which repeats a part as many times as you need it. I had to make the teeth on the key so I used the linear pattern to repeat this teeth many times fast instead of manually creating each single teeth. 
 
@@ -78,6 +77,7 @@ We made a new branch and transformed our parts to look different than the normal
 ![Screenshot 2022-10-24 115657](https://user-images.githubusercontent.com/112962044/197571579-cfe02e16-0d17-4a41-a02b-941ebc1dc1c0.png)
 
 The image shows the key changed from a circular handle to a square.
+
 ### Reflection
 I learned a new way of making my Onshape skills better. The branch is a place that you can create or upgrade an existing part without affecting the origninal one. That is a really helpful tool to use and if anyone wants to make their design better without affecting the one they have now then I suggest branchng it. It is a ton of help and very very useful.
 
