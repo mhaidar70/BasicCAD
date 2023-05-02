@@ -9,7 +9,6 @@ Repository of Mohammad Haidari's Onshape work in Engineering 3.
 * [Key and Prop](#key-and-prop)
 * [Pull Copter Assembly](#pull-copter-assembly)
 * [Branch and Merge](#branch-and-merge)
-* [Wheel](#wheel)
 * [Multi Part Studio](#multi-part-studio)
 
 ## Ring and Spinner
