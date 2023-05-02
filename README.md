@@ -1,7 +1,6 @@
 # BasicCAD
 
-We are creating stuff!
-
+Repository of Mohammad Haidari's Onshape work in Engineering 3. 
 ---
 ## Table of Contents
 *  [Table of Contents](#TableOfContents)
