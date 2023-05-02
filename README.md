@@ -1,7 +1,8 @@
 # BasicCAD
 
-Repository of Mohammad Haidari's Onshape work in Engineering 3. 
----
+Repository of Mohammad Haidari's Onshape work in Engineering 3.
+
+
 ## Table of Contents
 *  [Table of Contents](#TableOfContents)
 * [Ring and Spinner](#Ring_and_Spinner)
