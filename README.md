@@ -4,17 +4,17 @@ We are creating stuff!
 
 ---
 ## Table of Contents
-* Table of Contents
-* Ring and Spinner
-* Key and Prop
-* Pull Copter Asembly
-* Branch and Merge
-* Wheel
-* AxleCollarBearings
+*  [Table of Contents](#TableOfContents)
+* [Ring and Spinner](#Ring_and_Spinner)
+* [Key and Prop](#Key_and_Spinner)
+* [Pull Copter Assembly](#Pull_Copter_Assembly)
+* [Branch and Merge](#Branch_and_Merge)
+* [Wheel](#Wheel)
+* [Axle Collar Bearings](#Axle_Collar_Bearing)
 
-## Ring and Spinner
+### Ring and Spinner
 
-### Description
+## Description
 
 We were supposed to diivde up the work and create a part called Ring and Spinner. I was Partner A so I created the Ring and my Parnter created the Spinner. 
 
@@ -87,7 +87,7 @@ I learned a new way of making my Onshape skills better. The branch is a place th
 ---
 
 
-## Multi Part Studio
+## Axle Collar Bearing
 
 ### Description
  We made a part on Onshape using the drawings that were given to us. 
