@@ -10,6 +10,8 @@ Repository of Mohammad Haidari's Onshape work in Engineering 3.
 * [Pull Copter Assembly](#pull-copter-assembly)
 * [Branch and Merge](#branch-and-merge)
 * [Multi Part Studio](#multi-part-studio)
+* [Swing Arm](#swing-arm)
+* [Toggle Clamp](#toggle-clamp)
 
 ## Ring and Spinner
 
@@ -95,3 +97,35 @@ I learned a new way of making my Onshape skills better. The branch is a place th
 
 I would like to say that this was very very confusing. I had no idea where to start because there were different parts that had confusing dimensions. I got help from Mr. H, and he told me to start with the caps since they were almost identical. I just thought hm I need to start from easy then we can make progress then go to the hard parts. So just start from easy parts then move on to harder and harder parts. A good tip is also just get someone that knows what they are doing to check to see if you're on the right path. If you weren't then you kept going and eventually you're going to get one part wrong then that will cause you to restart the whole thing.
 
+
+## Swing Arm
+
+### Description 
+The goal of this assignment was to create a swing arm in Onshape by using drawings that was given to us. 
+
+### Image
+![Screenshot 2023-05-03 134228](https://user-images.githubusercontent.com/112962044/236000656-a5bcc9ff-fc7b-4134-a414-b79a16878523.png)
+![Screenshot 2023-05-03 134248](https://user-images.githubusercontent.com/112962044/236000675-d4c14ff0-8c1d-46bd-b838-40a38e515942.png)
+
+[Also link to my Onshape document](https://cvilleschools.onshape.com/documents/015b6c94a0f5570cbc4fd444/w/938447ecfa1b96483d7077c5/e/ca65503ff11660073e0cb5c5)
+
+### Reflection
+
+Although, I knew what the variable function did, I forgot to use it when creating the swing arm. I didn't realize until my teacher saw what I was doing, and it would have caused a lot of errors like the swing arm looking disfigured if I kept on changing the measurements. To fix it I used a variable which I could change the length, width, and the angle of it at anytime without the part looking nasty. 
+
+
+## Toggle Clamp
+
+### Description
+
+In this assignment, our main focus was on assembling a toggle clamp and later answering questions on the assembly. 
+
+### Image 
+![Screenshot 2023-05-03 135217](https://user-images.githubusercontent.com/112962044/236003249-f29ea0ed-d21b-418f-b3b1-7e808d00a745.png)
+![Screenshot 2023-05-03 135246](https://user-images.githubusercontent.com/112962044/236003279-c56680c9-bea9-4eaa-b11e-9a965329302c.png)
+
+[Also link to my Onshape assignment](https://cvilleschools.onshape.com/documents/ca26462d4e46191a775dd659/w/31de0130237b7c69bf5299d8/e/8e5cabc753ee577d3354ff36)
+
+### Reflection
+
+Making mistakes while creating this really frustrated me because I would think that I got the right answer but I was wrong because of a slight mistake in the previous part of the assembly. However, each mistake taught me a valuable lesson and helped me improve my skills. I also learned that taking my time and paying attention to details can help prevent mistakes in the future. 
