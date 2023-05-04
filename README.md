@@ -12,6 +12,7 @@ Repository of Mohammad Haidari's Onshape work in Engineering 3.
 * [Multi Part Studio](#multi-part-studio)
 * [Swing Arm](#swing-arm)
 * [Toggle Clamp](#toggle-clamp)
+* [Onshape Certification](#onshape-certification)
 
 ## Ring and Spinner
 
@@ -129,3 +130,14 @@ In this assignment, our main focus was on assembling a toggle clamp and later an
 ### Reflection
 
 Making mistakes while creating this really frustrated me because I would think that I got the right answer but I was wrong because of a slight mistake in the previous part of the assembly. However, each mistake taught me a valuable lesson and helped me improve my skills. I also learned that taking my time and paying attention to details can help prevent mistakes in the future. 
+
+## Onshape Certification
+
+### Description
+
+We prepared and took an exam to be Onshape certified. 
+
+### Reflection
+
+Onshape certification was a challenging task for me because honestly I didn't prepare well for it. We had a few assignments to help us review and prepare for our exam but I didn't complete the assignments completely, only doing it until I knew and left the rest of it. This was a crucial mistake that I regret now because I could have took a couple hours out of my day to pass this, but I didn't. Although I made a huge mistake, I did learn that an opportunity given is a opportunity to succeed and learn. In the future, I will take any opportunity that comes my way and try my best to do it and ask for help whenever it is needed. 
+
