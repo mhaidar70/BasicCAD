@@ -139,5 +139,5 @@ We prepared and took an exam to be Onshape certified.
 
 ### Reflection
 
-Onshape certification was a challenging task for me because honestly I didn't prepare well for it. We had a few assignments to help us review and prepare for our exam but I didn't complete the assignments completely, only doing it until I knew and left the rest of it. This was a crucial mistake that I regret now because I could have took a couple hours out of my day to pass this, but I didn't. Although I made a huge mistake, I did learn that an opportunity given is a opportunity to succeed and learn. In the future, I will take any opportunity that comes my way and try my best to do it and ask for help whenever it is needed. 
+Onshape certification was a challenging task for me because honestly I didn't prepare well for it. We had a few assignments to help us review and prepare for our exam but I didn't complete the assignments completely, only doing it until I knew and left the rest of it. This was a crucial mistake that I regret now because unfortunately, I didn't pass the exam.  Although I made a huge mistake, I did learn that an opportunity given is a opportunity to succeed and learn. In the future, I will take any opportunity that comes my way and try my best to do it and ask for help whenever it is needed. 
 
