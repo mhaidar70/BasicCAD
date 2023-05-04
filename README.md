@@ -9,9 +9,9 @@ Repository of Mohammad Haidari's Onshape work in Engineering 3.
 * [Key and Prop](#key-and-prop)
 * [Pull Copter Assembly](#pull-copter-assembly)
 * [Branch and Merge](#branch-and-merge)
-* [Multi Part Studio](#multi-part-studio)
+* [Multi Part Design](#multi-part-design)
 * [Swing Arm](#swing-arm)
-* [Toggle Clamp](#toggle-clamp)
+* [Onshape Assembly](#onshape-assembly)
 * [Onshape Certification](#onshape-certification)
 
 ## Ring and Spinner
@@ -84,7 +84,7 @@ The image shows the key changed from a circular handle to a square.
 I learned a new way of making my Onshape skills better. The branch is a place that you can create or upgrade an existing part without affecting the origninal one. That is a really helpful tool to use and if anyone wants to make their design better without affecting the one they have now then I suggest branchng it. It is a ton of help and very very useful.
 
 
-## Multi Part Studio
+## Multi Part Design
 
 ### Description
  We made a part on Onshape using the drawings that were given to us. 
@@ -115,7 +115,7 @@ The goal of this assignment was to create a swing arm in Onshape by using drawin
 Although, I knew what the variable function did, I forgot to use it when creating the swing arm. I didn't realize until my teacher saw what I was doing, and it would have caused a lot of errors like the swing arm looking disfigured if I kept on changing the measurements. To fix it I used a variable which I could change the length, width, and the angle of it at anytime without the part looking nasty. 
 
 
-## Toggle Clamp
+## Onshape Assembly
 
 ### Description
 
